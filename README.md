@@ -9,3 +9,5 @@ These are the changes that are committed to release-1 branch. We plan to commit 
 This is the next commit for the release-1 branch. More commits to follow. 
 
 okay, this is the last commit for the release-1 branch. We will next merge this to main and develop branches. NO squash only merge commits. 
+
+release-1 is off. These are new changes that are being done in develop branch. No changes directly added to main branch.
