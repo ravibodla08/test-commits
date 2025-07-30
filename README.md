@@ -15,3 +15,5 @@ release-1 is off. These are new changes that are being done in develop branch. N
 last commit to develop branch before release-2 changes. less gooo
 
 release-2 activities have started. After this one more commit will be done. 
+
+Time to test our understanding. Last commit to release-2 then we try to merge chagnes to develop and main. 
