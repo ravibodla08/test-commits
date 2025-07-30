@@ -7,3 +7,5 @@ this is a commit done to the develop branch. After this commit we will create a 
 These are the changes that are committed to release-1 branch. We plan to commit around 3 to 4 commits to this branch. 
 
 This is the next commit for the release-1 branch. More commits to follow. 
+
+okay, this is the last commit for the release-1 branch. We will next merge this to main and develop branches. NO squash only merge commits. 
