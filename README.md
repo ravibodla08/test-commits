@@ -12,4 +12,4 @@ okay, this is the last commit for the release-1 branch. We will next merge this 
 
 
 -------
-This is a commit from the eclipse git plugin.
+This is a commit from the eclipse git plugin..
